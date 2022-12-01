@@ -1,0 +1,21 @@
+#Eclipse
+/bin
+# Compiled class file
+*.class
+
+*.log
+#/.gradle/
+.project
+.classpath
+.settings
+
+result.log*
+note
+
+/.gradle/
+/.settings/
+build/
+
+#idea
+/.idea/
+/target/
